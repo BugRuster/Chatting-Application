@@ -68,5 +68,8 @@ class WebSocketClient {
 
     messageController.close();
     _initializeControllers();
+
+
+    // WebSocket code updated
   }
 }
