@@ -70,6 +70,8 @@ class WebSocketClient {
     _initializeControllers();
 
 
+
+    // Code is not working basically websocket is not working in flutter
     // WebSocket code updated
   }
 }
