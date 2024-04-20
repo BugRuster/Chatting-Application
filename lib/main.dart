@@ -73,3 +73,6 @@ final chatRoom = ChatRoom(
   ),
   unreadCount: 0,
 );
+
+
+// this is the main  file of the project.
