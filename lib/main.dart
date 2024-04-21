@@ -74,3 +74,6 @@ final chatRoom = ChatRoom(
   unreadCount: 0,
 );
 
+
+// this is app for chat room between two users right now!
+
