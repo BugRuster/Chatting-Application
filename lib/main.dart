@@ -73,7 +73,10 @@ final chatRoom = ChatRoom(
   ),
   unreadCount: 0,
 );
+// Path: lib/screens/chat_room_screen.dart
+// Compare this snippet from lib/screens/chat_room_screen.dart:
+// import 'package:flutter/material.dart';
+// import 'package:models/models.dart';
+//
 
-
-// this is app for chat room between two users right now!
 
